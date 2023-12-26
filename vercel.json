@@ -4,6 +4,6 @@
           "source": "/favicon.ico",
           "destination": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
         },
-        { "source": "/(.*)", "destination": "/api/hello.go" }
+        { "source": "/(.*)", "destination": "/api/index.go" }
       ]
 }
